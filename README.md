@@ -6,3 +6,4 @@ Ye, Minying, and Kanji Tanaka. 2023. "Visual Place Recognition of Robots via Glo
 
 
 
+https://github.com/MINYINGYE/BGF-system/blob/main/g.jpg
