@@ -21,9 +21,6 @@ Visual Place Recognition of Robots via Global Features of Scan-Context Descripto
  }
 ```
 
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="g.jpg">
  
@@ -44,5 +41,5 @@ If you have any questions, contact here please
 ### Copyright 
 - All codes on this page are copyrighted by FUKUI University and chinourobot Labs and published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License. You must attribute the work in the manner specified by the author. You may not use the work for commercial purposes, and you may only distribute the resulting work under the same license if you alter, transform, or create the work.
 
-### scan context part
+### Scan context part
 scan context part is refer from https://github.com/gisbi-kim/scancontext_tro.git
