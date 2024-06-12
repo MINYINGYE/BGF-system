@@ -28,7 +28,6 @@ git status
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="g.jpg">
 </picture>
 
-![GitHub图像](g.jpg)
 
 
 scan context part is refer from https://github.com/gisbi-kim/scancontext_tro.git
