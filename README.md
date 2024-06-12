@@ -7,3 +7,6 @@ Ye, Minying, and Kanji Tanaka. 2023. "Visual Place Recognition of Robots via Glo
 
 
 ![GitHub图像](g.jpg)
+
+
+scan context part is refer from https://github.com/gisbi-kim/scancontext_tro.git
