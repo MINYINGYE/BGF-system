@@ -2,7 +2,7 @@
 Visual Place Recognition of Robots via Global Features of Scan-Context Descriptors with Dictionary-Based Coding
 
 Visual Place Recognition of Robots via Global Features of Scan-Context Descriptors with Dictionary-Based Coding
-[Paper](./docs/sheetsee-charts.md)
+[Paper]([./docs/sheetsee-charts.md](https://www.mdpi.com/2076-3417/13/15/9040))
 
 
 Cite：
