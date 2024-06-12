@@ -10,15 +10,15 @@ Visual Place Recognition of Robots via Global Features of Scan-Context Descripto
 
 
 > @article{ye2023visual,
-  title={Visual Place Recognition of Robots via Global Features of Scan-Context Descriptors with Dictionary-Based Coding},
-  author={Ye, Minying and Tanaka, Kanji},
-  journal={Applied Sciences},
-  volume={13},
-  number={15},
-  pages={9040},
-  year={2023},
-  publisher={MDPI}
-}
+>  title={Visual Place Recognition of Robots via Global Features of Scan-Context Descriptors with Dictionary-Based Coding},
+>  author={Ye, Minying and Tanaka, Kanji},
+>  journal={Applied Sciences},
+>   volume={13},
+>   number={15},
+>   pages={9040},
+>   year={2023},
+>   publisher={MDPI}
+> }
 
 
 
