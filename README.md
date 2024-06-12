@@ -21,6 +21,14 @@ Visual Place Recognition of Robots via Global Features of Scan-Context Descripto
 > }
 
 
+@ARTICLE { gskim-2021-tro,
+    AUTHOR = { Giseop Kim and Sunwook Choi and Ayoung Kim },
+    TITLE = { Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments },
+    JOURNAL = { IEEE Transactions on Robotics },
+    YEAR = { 2021 },
+    NOTE = { Accepted. To appear. },
+}
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="g.jpg">
